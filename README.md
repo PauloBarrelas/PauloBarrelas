@@ -7,4 +7,4 @@ I'm an aspiring full stack web developer who also loves UX/UI design.
 - CSS
 - Bootstrap
 - JavaScript
-(in construction)
+- (in construction)
